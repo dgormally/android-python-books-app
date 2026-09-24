@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Python Books</string>
+    
+    <!-- Main Screen -->
+    <string name="screen_book_list_title">Popular Python Books</string>
+    <string name="screen_book_list_no_books_found">No books found</string>
+    <string name="screen_book_list_retry">Try Again</string>
+    <string name="screen_book_list_error_title">Oops! Something went wrong</string>
+    <string name="screen_book_list_error_message">Unable to load books. Please check your internet connection and try again.</string>
+    <string name="screen_book_list_loading_message">Loading books...</string>
+    
+    <!-- Book Details Bottom Sheet -->
+    <string name="screen_book_details_title">Book Details</string>
+    <string name="screen_book_details_close">Close</string>
+    <string name="screen_book_details_cover_content_description">Book cover for %s</string>
+    <string name="screen_book_details_by_author">by %s</string>
+    
+    <!-- Publication Details -->
+    <string name="screen_book_details_publication_details">Publication Details</string>
+    <string name="screen_book_details_first_published">First Published</string>
+    <string name="screen_book_details_pages">Pages</string>
+    <string name="screen_book_details_pages_format">%d pages</string>
+    <string name="screen_book_details_publisher">Publisher</string>
+    <string name="screen_book_details_language">Language</string>
+    <string name="screen_book_details_isbn">ISBN</string>
+    
+    <!-- Topics & Subjects -->
+    <string name="screen_book_details_topics_subjects">Topics &amp; Subjects</string>
+    
+    <!-- Reference -->
+    <string name="screen_book_details_reference">Reference</string>
+    <string name="screen_book_details_openlibrary_key">OpenLibrary Key: %s</string>
+    
+    <!-- Book Item -->
+    <string name="component_book_item_content_description">Book item for %s</string>
+</resources>
